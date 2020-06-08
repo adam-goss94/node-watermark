@@ -1,0 +1,11 @@
+{
+  "name": "my-first-package",
+  "version": "1.0.0",
+  "description": "The best package you will ever find",
+  "main": "app.js",
+  "author": "Adam",
+  "license": "MIT",
+  "dependencies": {
+    "jimp": "0.6.4"
+  }
+}
